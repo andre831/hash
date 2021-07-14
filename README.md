@@ -17,5 +17,5 @@ Click here: 👉🏿 https://andre831.github.io/my-portfolio/ 👈🏿
 
 - the game starts with `❎`;
 - the part in one of the spaces;
-- next will be `⭕`
+- next will be `⭕`;
 - who aligns 3 equal elements will win;
