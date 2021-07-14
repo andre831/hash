@@ -11,7 +11,7 @@ Bring JavaScript in a more interactive way, so that you can more quickly and pra
 
 ## How use 🎮
 
-Click here: 👉🏿 https://andre831.github.io/my-portfolio/ 👈🏿
+Click here: 👉🏿 https://andre831.github.io/hash/ 👈🏿
 
 - Select: `🧑👧🏾` or `🤖`;
 
